@@ -21,6 +21,6 @@ This is a very simple and silly shell script to print what tput colors are avail
     ```shell
     tput setaf 1
     printf "Hello World"
-    tput sgr
+    tput sgr0
     ```
 
