@@ -1,10 +1,8 @@
 ## TPUT Colors
 This is a very simple and silly shell script to print what tput colors are available for beautifying your plain text output
-<br/>
-<br/>
+
 
 ### Usage
-
 1. Dowload the script `tput-colors.sh`
 
 1. Allow execution permission to the downloaded file
